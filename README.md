@@ -9,21 +9,21 @@
 Примеры
 
 1. В изначальной директории будет показана структуру проекта. В строке можно перейти в любую директорию(кроме downloads/)
-http://127.0.0.1:8000/module
-http://127.0.0.1:8000/temp/temp1
+	* http://127.0.0.1:8000/module 
+	* http://127.0.0.1:8000/temp/temp1
 
 2. Создание папки производится командой create-имяпапки
-http://127.0.0.1:8000/create-tempFolder
-http://127.0.0.1:8000/temp/create-temp2
+	* http://127.0.0.1:8000/create-tempFolder
+	* http://127.0.0.1:8000/temp/create-temp2
 
 3. Удаление пустой папки или файла командой delete-имя и подтвердить метод DELETE
-http://127.0.0.1:8000/temp/delete-temp1
-http://127.0.0.1:8000/temp/
+	* http://127.0.0.1:8000/temp/delete-temp1
+	* http://127.0.0.1:8000/temp/
 
 4. Скачивание файла производится командой download-имя файла
-http://127.0.0.1:8000/download-text.txt
-http://127.0.0.1:8000/module/download-apps.py
+	* http://127.0.0.1:8000/download-text.txt
+	* http://127.0.0.1:8000/module/download-apps.py
 
 5. Форма для загрузки файла на сервер
- http://127.0.0.1:8000/upload/
+ 	* http://127.0.0.1:8000/upload/
  Файл будет загружен в директорию downloads/

@@ -20,7 +20,7 @@ http://127.0.0.1:8000/temp/create-temp2
 http://127.0.0.1:8000/temp/delete-temp1
 http://127.0.0.1:8000/temp/
 
-4. Скачивание файла производится командой download-имяфайла
+4. Скачивание файла производится командой download-имя файла
 http://127.0.0.1:8000/download-text.txt
 http://127.0.0.1:8000/module/download-apps.py
 

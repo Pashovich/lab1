@@ -27,3 +27,7 @@
 5. Форма для загрузки файла на сервер
  	* http://127.0.0.1:8000/upload/
  - Файл будет загружен в директорию downloads/
+
+https://rave.dj/o-0KxSjNEmSFbw
+https://rave.dj/nDoX3bStUfRRWQ
+https://rave.dj/5L01KwoSf5iq7g
